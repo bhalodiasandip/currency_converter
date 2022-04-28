@@ -45,5 +45,11 @@ DB_PASSWORD=
 Delete all contenet from storage\framework\cache folder
 t1
 m1
+
 p1
 p2
+
+
+
+k1
+
