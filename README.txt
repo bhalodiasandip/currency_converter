@@ -44,3 +44,4 @@ DB_PASSWORD=
 
 Delete all contenet from storage\framework\cache folder
 
+o1
